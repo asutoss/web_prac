@@ -1,0 +1,11 @@
+.searchbox{
+    background-color: white;
+    width: 40%;
+    height: 50vh;
+    margin: auto;
+    padding-top: 10%;
+}
+
+.searchbox button{
+    margin: 20px;
+}
